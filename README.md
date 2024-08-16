@@ -1,1 +1,1 @@
-Hey, I'm Sapphire, or Saph, whichever you prefer. I'm a student of Computer Science, and a hobbyist game developer. I like to be a nerd, and code with C++ and C, sometimes Python (as assignments require or if I just wanna do Python projects)
+Hey, I'm Sapphire, or Saph, whichever you prefer. I'm a student of Computer Science, and a hobbyist game developer. I like to be a nerd, and code with C# and C, sometimes Python (as assignments require or if I just wanna do Python projects)
